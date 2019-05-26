@@ -1,6 +1,6 @@
 //题目ID：45842-统计回文 
 
-[](https://www.cnblogs.com/liugang-vip/p/6337580.html)
+//链接：https://www.cnblogs.com/liugang-vip/p/6337580.html
 
 
 
