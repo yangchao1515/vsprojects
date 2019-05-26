@@ -1,6 +1,5 @@
 //题目ID：45842-统计回文 
-//链接：https://www.nowcoder.com/practice/9d1559511b3849deaa71b576fa7009dc?tpId=85&&tqId=29 842&rp=1&ru=/activity/oj&qru=/ta/2017test/question-ranking
-
+//https://www.nowcoder.com/practice/9d1559511b3849deaa71b576fa7009dc?tpId=85&&tqId=29842&rp=1&ru=/activity/oj&qru=/ta/2017test/question-ranking
 #include<iostream>
 #include<string>
 
